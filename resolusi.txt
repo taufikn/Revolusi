@@ -1,0 +1,4 @@
+RESOLUSI
+- Vue.js
+- Codeigniter v4
+- laravel
