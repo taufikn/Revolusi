@@ -3,5 +3,6 @@ Rencana Pembelajaran
   - Vue.js
   - ES6
 - PHP Framework
-  - Laravel
+  - Codeigniter v4
 - Lebih aktif GIT
+- Golang
