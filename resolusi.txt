@@ -1,4 +1,5 @@
 RESOLUSI
 - Vue.js
-- Codeigniter v4
 - laravel
+- Aktif GIT
+- Membuat Portofolio
