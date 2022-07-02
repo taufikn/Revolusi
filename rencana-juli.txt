@@ -4,4 +4,4 @@ Rencana Pembelajaran
   - ES6
 - PHP Framework
   - Laravel
-- Lebih aktif GIT
+- Phyton
